@@ -14,5 +14,5 @@ A modern, responsive landing page designed to promote a product effectively, wit
 🛠️ Tech Stack
 HTML – Page Structure
 CSS and Bootsrap– Styling & Layout (Flexbox, Grid)
-JavaScript – Interactive Elements
+
 
